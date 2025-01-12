@@ -458,6 +458,28 @@ print(len(name))
 #----STR , Functions, List, set , tuple , dict ,.... review
 #----> mesal bozorg applicable 
 
+'''
+#----mesal sade
+products=['h100','b100','c100','d100','f100']
+
+#sahebe maghaze
+#yek system ba input benevis 
+#va bege code az taraf begire
+#code mahsol ro b in products add kone
+
+
+
+#yedone dg ham bsaz k biad az moshtari 
+#codeto bezan
+
+#bere begarde too list bbine mojode ya mojod nist
+
+
+'''
+
+
+
+
 
 
 
