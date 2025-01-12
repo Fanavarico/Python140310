@@ -115,6 +115,114 @@ new_ghad=ghad+100
 print('ghade shoma dar merikh:',new_ghad)
 
 
+
+
+#-------LISTS------
+users=['user1','admin','user2','user3','user4']
+#acces by index
+mylist[2]=200 #change
+
+users.insert(3,'admin2')
+users.append('user8')
+users.remove('admin2')
+users.pop(3)
+
+#list
+#--> ordered , changable , allow duplicated
+
+#tuple-->
+#---> ordered, unchangable, allow duplicated
+a=(10,20,30)
+
+b=(12)
+print(type(b)) #<class 'int'>
+
+b=(12,)
+print(type(b)) #<class 'tuple'>
+
+
+a=(10,20,30)
+#20--80
+
+b=list(a)
+
+#b.append()
+#b.remove()
+b[1]=600
+print(b)
+#[10, 600, 30]
+
+a=tuple(b)
+print(a)
+#(10, 600, 30)
+
+#tuple-->list (taghir) -->tuple
+
+
+
+#set------>
+#unordered, unchanbgable ( add, rmeove), not allow duplicated
+
+
+myset={'ali','vahid','reza'}
+print(type(myset))
+#<class 'set'>
+
+#add
+#index
+
+#index
+
+mylist=['ali','vahid','reza']
+
+
+for i in mylist:
+    print(i)
+    
+
+
+myset={'ali','vahid','reza'}
+for i in mylist:
+    print(i)
+
+#index
+#.pop()-->random pak mikone
+
+
+
+#------------------
+#dictionary
+
+
+#keys , values
+
+
+a={ 'brand' : 'benz' ,
+   'year': 1998 ,
+   'city' : 'newyork'}
+
+a.keys()
+#: dict_keys(['brand', 'year', 'city'])
+
+a.values()
+#: dict_values(['benz', 1998, 'newyork'])
+
+a.items()
+#dict_items([('brand', 'benz'), ('year', 1998), ('city', 'newyork')])
+
+
+a['city']='sanfransisco'
+
+a['year']=1800
+
+#add
+
+a['color']='blue'
+
+
+
+
+
 #------LIST HA------
 
 
