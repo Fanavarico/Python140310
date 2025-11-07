@@ -1,36 +1,51 @@
-Python140310
+# Python140310
 fanavari.co project for students in December 2024
 
-Python Class Repository
-Welcome 👋
+# Python Class Repository
 
-This repository contains the Python codes we write during our class sessions.
-Each session has its own folder, and inside you will find the related code examples we created on that day.
+Welcome 👋  
 
-Structure
-Session 1/ → Code from the first session
-Session 2/ → Code from the second session
-...and so on
-Purpose
+This repository contains the Python codes we write during our class sessions.  
+Each session has its own folder, and inside you will find the related code examples we created on that day.  
+
+## Structure
+- `Session 1/` → Code from the first session  
+- `Session 2/` → Code from the second session  
+- ...and so on  
+
+## Purpose
 This repository is for students to:
+- Review what we learned in class  
+- Practice Python by running and modifying the examples  
+- Track progress across sessions  
 
-Review what we learned in class
-Practice Python by running and modifying the examples
-Track progress across sessions
+---
+
 ✨ Keep learning, keep coding, and enjoy Python!
 
 licenced by fanavari.co
 
-دوره آموزش پایتون — دی 1403 برگزارکننده: fanavari.co
 
-مدرس: خانم مهندس فرشته داودیان - آقای مهندس علی پیله ور میبدی تاریخ شروع: دی 1403 سطح دوره: مقدماتی تا پیشرفته
 
-📁 ساختار مخزن این مخزن شامل کدها و تمرین‌های دوره آموزش پایتون است که در جلسات حضوری و غیرحضوری ارائه شده‌اند:
+دوره آموزش پایتون — دی 1403
+برگزارکننده: fanavari.co
 
-🧰 پیش‌نیازها برای اجرای کدهای این دوره، نیاز به نصب موارد زیر دارید:
+مدرس: خانم مهندس فرشته داودیان - آقای مهندس علی پیله ور میبدی تاریخ شروع: آدی 1403 سطح دوره: مقدماتی تا پیشرفته
 
-Python 3.10 یا بالاتر 📬 ارتباط با ما در صورت وجود هرگونه سوال یا پیشنهاد، می‌توانید از طریق بخش Issues در این مخزن با ما در ارتباط باشید.
+📁 ساختار مخزن
+این مخزن شامل کدها و تمرین‌های دوره آموزش پایتون است که در جلسات حضوری و غیرحضوری ارائه شده‌اند:
+
+🧰 پیش‌نیازها
+برای اجرای کدهای این دوره، نیاز به نصب موارد زیر دارید:
+
+Python 3.10 یا بالاتر
+📬 ارتباط با ما در صورت وجود هرگونه سوال یا پیشنهاد، می‌توانید از طریق بخش Issues در این مخزن با ما در ارتباط باشید.
 
 🌐 درباره fanavari.co خانه فناوری تهران، ارائه‌دهنده آموزش‌های تخصصی برنامه‌نویسی، طراحی سایت و مسیرهای رشد مهارتی برای فارسی‌زبانان در داخل و خارج از کشور است.
 
 📎 وب‌سایت رسمی: www.fanavari.co با آرزوی موفقیت در مسیر یادگیری پایتون! 🐍 این مخزن برای استفاده آموزشی در دوره‌های fanavari.co تهیه شده است.
+
+
+
+
+.
