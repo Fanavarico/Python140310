@@ -1,92 +1,36 @@
+Python140310
+fanavari.co project for students in December 2024
 
-# Fanavarico
+Python Class Repository
+Welcome 👋
 
-# 🐍 **Python - Tutorial : Jan2025**
-> **Lecturer: Fereshteh Davoodian & Ali Pilehvar Meibody**
->
-> 
-> **Note:** All comment desciption within code files written in Persian.
->
-> ---
+This repository contains the Python codes we write during our class sessions.
+Each session has its own folder, and inside you will find the related code examples we created on that day.
 
-## 📝 **Overview**
+Structure
+Session 1/ → Code from the first session
+Session 2/ → Code from the second session
+...and so on
+Purpose
+This repository is for students to:
 
-This repository serves as a **comprehensive guide** for **professionals** who want to delve into **Python programming** and **data analysis**. The lessons start with **basic Python concepts**, progress into **data analysis** using libraries such as **NumPy**, **Pandas**, and **Matplotlib** with practical engineering examples.
+Review what we learned in class
+Practice Python by running and modifying the examples
+Track progress across sessions
+✨ Keep learning, keep coding, and enjoy Python!
 
----
-## 📖 **Lessons**
-Below is a description of each uploaded lesson
+licenced by fanavari.co
 
- **MAIN CLASS**
- > **Lecturer: Fereshteh Davoodian**
-- **1: Introduction**
-  - 🔹 
+دوره آموزش پایتون — دی 1403 برگزارکننده: fanavari.co
 
-- **2: **
-  - 🔹 
-  - 🔹 
+مدرس: خانم مهندس فرشته داودیان - آقای مهندس علی پیله ور میبدی تاریخ شروع: دی 1403 سطح دوره: مقدماتی تا پیشرفته
 
-- **3: **
-  - 🔹 
-  - 🔹 
+📁 ساختار مخزن این مخزن شامل کدها و تمرین‌های دوره آموزش پایتون است که در جلسات حضوری و غیرحضوری ارائه شده‌اند:
 
-- **4: **
-  - 🔹 
-  - 🔹
+🧰 پیش‌نیازها برای اجرای کدهای این دوره، نیاز به نصب موارد زیر دارید:
 
-- **5: **
-  - 🔹
+Python 3.10 یا بالاتر 📬 ارتباط با ما در صورت وجود هرگونه سوال یا پیشنهاد، می‌توانید از طریق بخش Issues در این مخزن با ما در ارتباط باشید.
 
+🌐 درباره fanavari.co خانه فناوری تهران، ارائه‌دهنده آموزش‌های تخصصی برنامه‌نویسی، طراحی سایت و مسیرهای رشد مهارتی برای فارسی‌زبانان در داخل و خارج از کشور است.
 
----
-
- 
- **ADVANCED CLASS**
- > **Lecturer: Ali Pilehvar Meibody**
-- **1: Introduction**
-  - 🔹 
-
-- **2: **
-  - 🔹 
-  - 🔹 
-
-- **3: **
-  - 🔹 
-  - 🔹 
-
-- **4: **
-  - 🔹 
-  - 🔹
-
-- **5: **
-  - 🔹 
-  - 🔹
- 
----
-
-## ⚙️ **Installation**
-
-To use the materials in this repository, make sure you have the following installed:
-
-- **Python 3.x**
-- **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Scikit-learn**
-
-Install the libraries by running:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn
-```
----
-
-
-
-
-## 💾 **How to Get Started**
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Fanavarico/Python140310.git
----
+📎 وب‌سایت رسمی: www.fanavari.co با آرزوی موفقیت در مسیر یادگیری پایتون! 🐍 این مخزن برای استفاده آموزشی در دوره‌های fanavari.co تهیه شده است.
