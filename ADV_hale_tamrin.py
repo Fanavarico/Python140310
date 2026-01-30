@@ -3,8 +3,6 @@
 
 حل تمرین
 
-
-
 Created on Sat Mar  1 17:32:06 2025
 
 @author: apm
