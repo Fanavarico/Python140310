@@ -2,14 +2,11 @@
 """
 In The name of GOD
 
-
-
 Created on Sun Mar  9 20:07:22 2025
 
 @author: apm
 
 ADV_L5_Attend
-
 
 """
 
