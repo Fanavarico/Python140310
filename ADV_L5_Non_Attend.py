@@ -2,8 +2,6 @@
 """
 In The Name of GOD
 
-
-
 Created on Mon Mar 10 20:02:39 2025
 
 @author: apm
