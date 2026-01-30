@@ -3,8 +3,6 @@
 
 In The Name of GOD 
 
-
-
 Created on Sun Jan 12 18:38:35 2025
 
 @author: Ali Pilehvar Meibody
