@@ -10,8 +10,6 @@ ADV_L3_NON_ATTEND
 
 
 
-
-
 python-------> vocabs, grammer
 
 reserved words:
